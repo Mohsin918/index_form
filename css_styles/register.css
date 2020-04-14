@@ -58,10 +58,7 @@
   }
   .container-fluid
   {
-    padding-top: 2%;
-    padding-left:3%;
-    padding-right:5%;
-    padding-bottom: 10%;
+      padding:2% 20% 20% 2%;
   }
   .application-title
   {
