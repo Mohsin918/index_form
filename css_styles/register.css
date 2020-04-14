@@ -54,12 +54,13 @@
   }
   .form-group
   {
-    width:50%;
+    width:60%;
   }
   .container-fluid
   {
     padding-top: 2%;
     padding-left:3%;
+    padding-right:5%;
     padding-bottom: 10%;
   }
   .application-title
