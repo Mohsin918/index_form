@@ -47,10 +47,6 @@
 /*Media Query*/
 @media (max-width:1028px)
 {
-  #registration
-  {
-    padding:10 20% 20%;
-  }
   .heading
   {
     background-color: #d9d9d9;
