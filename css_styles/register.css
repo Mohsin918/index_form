@@ -54,7 +54,7 @@
   }
   .form-control
   {
-    width:160%;
+    width:100%;
   }
   .container-fluid
   {
@@ -69,5 +69,6 @@
     font-size: 1.5rem;
     line-height: 1;
     font-weight: bold;
+    width:100%;
   }
 }
