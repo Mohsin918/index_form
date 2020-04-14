@@ -56,6 +56,10 @@
   {
     width:100%;
   }
+  .form-group
+  {
+    padding-bottom:8%;
+  }
   .container-fluid
   {
     padding-left:2%;
