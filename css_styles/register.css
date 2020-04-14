@@ -54,7 +54,8 @@
   }
   .form-group
   {
-    width:60%;
+    width:100%;
+    padding:2% 5%;
   }
   .container-fluid
   {
