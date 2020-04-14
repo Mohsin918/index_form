@@ -45,7 +45,7 @@
   color: #d9d9d9;
 }
 /*Media Query*/
-@media (max-width:1028px)
+@media screen and (max-width:600px)
 {
   .heading
   {
@@ -55,8 +55,6 @@
   .form-group
   {
     width:100%;
-    padding-left:1%;
-    padding-right:40%
   }
   .container-fluid
   {
