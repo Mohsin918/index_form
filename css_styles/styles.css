@@ -1,0 +1,93 @@
+body
+{
+  font-family: "Montserrat";
+}
+#title
+{
+  text-align: center;
+}
+.bg-img
+{
+  background-image: url("https://www.nopaperforms.com/d/images/b_g_01.jpg");
+  height: 40rem;
+}
+.container-fluid
+{
+  padding:1% 15% 6%;
+}
+/*Navigation Bar*/
+.navbar-brand
+{
+  font-family: 'Averia Serif Libre', cursive;
+  font-size: 2rem;
+  font-weight: bold;
+  color: white !important;
+}
+.nav-item
+{
+  padding:0 10px;
+}
+.nav-link
+{
+  font-size: 1rem;
+  /*font-family: "Montserrat-Light";*/
+  color: white !important;
+}
+.big-heading
+{
+  /*font-family: 'Montserrat-Black', sans-serif;*/
+  font-family: "Montserrat",sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: normal;
+  margin-top: 5rem;
+  color: #fff;
+}
+.small-heading
+{
+  font-size:1.3rem;
+  color: #fff;
+}
+.btn
+{
+  color: #90EE90;
+}
+/*Features*/
+#features
+{
+  padding:4% 15%;
+  background-color: #fff;
+  text-align: center;
+}
+.icon
+{
+   color: #ef8172;
+   margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #FF4C68;
+}
+.feature-title
+{
+  font-family: "Montserrat",sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 5rem;
+}
+#solutions
+{
+  padding:4% 5%;
+  text-align: center;
+  background-color:  #f2f2f2;
+}
+.solution-title
+{
+  font-family: "Montserrat",sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 3rem;
+}
+.solution-column
+{
+  padding:3% 3%;
+}

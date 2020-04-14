@@ -1,0 +1,46 @@
+
+#registration
+{
+  background-color: #fff;
+}
+.container-fluid
+{
+  padding-top: 2%;
+  padding-left:40%;
+  padding-bottom: 10%;
+
+}
+.form-group
+{
+  width: 40%;
+}
+.form-control
+{
+  border: 1px solid;
+}
+.gender-title
+{
+  line-height: 2rem;
+}
+.heading
+{
+  background-color: #d9d9d9;
+  text-align: center;
+  padding-bottom: 1%;
+}
+.application-title
+{
+  font-family: "Montserrat",sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.noPadding
+{
+  padding:0 2%;
+  margin-left: 2%;
+}
+.next
+{
+  color: #d9d9d9;
+}
