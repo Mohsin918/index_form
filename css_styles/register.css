@@ -56,13 +56,12 @@
   {
     width:350px;
     height:40px;
-    padding-right:5px;
   }
   .container-fluid
   {
     padding-left:2%;
     padding-top:2%;
-    padding-right:5%;
+    padding-right:10px;
   }
   .application-title
   {
